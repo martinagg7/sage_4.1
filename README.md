@@ -23,6 +23,7 @@ Calcula la suma de la serie indicada en el número 9 de la lista adjunta.
 Realiza el cálculo indicado en el número 10 de la lista adjunta.
 
 Realiza el cálculo indicado en el número 11 de la lista adjunta.
-link repositorio github:
+
+link repositorio github:https://github.com/martinagg7/tarea4sage_calculo2.git
 
 nombre usuario:martingg7
